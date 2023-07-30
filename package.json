@@ -1,8 +1,8 @@
 {
-  "name": "nest-typescript-starter",
-  "private": true,
+  "name": "nestjs-app",
+  "author": "Mubarik Ali",
   "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "description": "NestJS App with Typescript.",
   "license": "MIT",
   "scripts": {
     "build": "nest build",
